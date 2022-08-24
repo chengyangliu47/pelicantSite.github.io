@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2022-08-24T16:23:10-00:00</lastmod>
+<lastmod>2022-08-24T16:35:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -25,9 +25,23 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/example3.html</loc>
+<lastmod>2012-07-10T20:14:00-05:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/my-super-titlesssssssss.html</loc>
 <lastmod>2012-07-10T20:14:00-05:00</lastmod>
 <changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/category/categoryhere.html</loc>
+<lastmod>2012-07-10T20:14:00-05:00</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -60,6 +74,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/tag/tagshere.html</loc>
+<lastmod>2012-07-10T20:14:00-05:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/tag/thadsadsats.html</loc>
 <lastmod>2012-07-10T20:14:00-05:00</lastmod>
 <changefreq>daily</changefreq>
@@ -68,6 +89,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/alexis-metaireau.html</loc>
+<lastmod>2012-07-10T20:14:00-05:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/author/authorshere.html</loc>
 <lastmod>2012-07-10T20:14:00-05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
