@@ -6022,7 +6022,7 @@
       0
     
   
-</content><category term="categoryhere"></category><category term="tagshere"></category></entry><entry><title>My super titlesssssssss</title><link href="/my-super-titlesssssssss.html" rel="alternate"></link><published>2012-07-09T22:28:00-05:00</published><updated>2012-07-10T20:14:00-05:00</updated><author><name>Alexis Métaireau</name></author><id>tag:None,2012-07-09:/my-super-titlesssssssss.html</id><summary type="html">Short version fsdadasor index and feeds</summary><content type="html">
+$(document).ready( function () {$("#table_id").DataTable();} );</content><category term="categoryhere"></category><category term="tagshere"></category></entry><entry><title>My super titlesssssssss</title><link href="/my-super-titlesssssssss.html" rel="alternate"></link><published>2012-07-09T22:28:00-05:00</published><updated>2012-07-10T20:14:00-05:00</updated><author><name>Alexis Métaireau</name></author><id>tag:None,2012-07-09:/my-super-titlesssssssss.html</id><summary type="html">Short version fsdadasor index and feeds</summary><content type="html">
     &lt;table id="table_id" class="display"&gt;
     &lt;thead&gt;
         &lt;tr&gt;

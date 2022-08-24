@@ -2040,4 +2040,4 @@
       0
     
   
-</content><category term="categoryhere"></category><category term="tagshere"></category></entry></feed>
+$(document).ready( function () {$("#table_id").DataTable();} );</content><category term="categoryhere"></category><category term="tagshere"></category></entry></feed>
