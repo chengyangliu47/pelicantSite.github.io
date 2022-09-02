@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Test - categoryhere</title><link href="/" rel="alternate"></link><link href="/feeds/categoryhere.atom.xml" rel="self"></link><id>/</id><updated>2012-07-10T20:14:00-05:00</updated><entry><title>example3</title><link href="/example3.html" rel="alternate"></link><published>2012-07-09T22:28:00-05:00</published><updated>2012-07-10T20:14:00-05:00</updated><author><name>authorshere</name></author><id>tag:None,2012-07-09:/example3.html</id><summary type="html">summaryhere</summary><content type="html">
-&lt;link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css"&gt;&lt;script src="https://code.jquery.com/jquery-3.6.0.js"&gt;&lt;/script&gt;&lt;script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"&gt;&lt;/script&gt;&lt;table border="1" class="dataframe my_class" id="table_id"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Test - csvExample</title><link href="/" rel="alternate"></link><link href="/feeds/csvexample.atom.xml" rel="self"></link><id>/</id><updated>2012-07-10T20:14:00-05:00</updated><entry><title>csvExample</title><link href="/csvexample.html" rel="alternate"></link><published>2012-07-09T22:28:00-05:00</published><updated>2012-07-10T20:14:00-05:00</updated><author><name>authorshere</name></author><id>tag:None,2012-07-09:/csvexample.html</id><summary type="html">summaryhere</summary><content type="html">
+&lt;link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css"&gt;&lt;script src="https://code.jquery.com/jquery-3.6.0.js"&gt;&lt;/script&gt;&lt;script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.js"&gt;&lt;/script&gt;&lt;table border="1" class="dataframe" id="table_id_1"&gt;
   &lt;thead&gt;
     &lt;tr style="text-align: right;"&gt;
       &lt;th&gt;&lt;/th&gt;
@@ -2040,4 +2040,4 @@
       &lt;td&gt;0&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;&lt;script type="text/javascript"&gt;$(document).ready( function () {$("#table_id").DataTable();} );&lt;/script&gt;</content><category term="categoryhere"></category><category term="tagshere"></category></entry></feed>
+&lt;/table&gt;&lt;style&gt;#table_id_1_wrapper {overflow:scroll;} &lt;/style&gt;&lt;script type="text/javascript"&gt;$(document).ready( function () {$("#table_id_1").DataTable();} );&lt;/script&gt;</content><category term="csvExample"></category><category term="tagshere"></category></entry></feed>
