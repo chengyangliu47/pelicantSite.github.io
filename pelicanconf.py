@@ -33,3 +33,5 @@ RELATIVE_URLS = True
 PLUGIN_PATHS = ["plugins", "./pelican-plugins"]
 PLUGINS = ["myplug"]
 
+THEME = "./pelican-themes/theme-basic"
+
