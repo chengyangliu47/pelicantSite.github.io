@@ -35,3 +35,6 @@ PLUGINS = ["myplug"]
 
 THEME = "./pelican-themes/theme-basic"
 
+DATE_FORMATS = {
+    'en': '%a, %d %b %Y',
+}
